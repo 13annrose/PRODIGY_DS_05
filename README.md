@@ -1,1 +1,1 @@
-This project aims to analyze traffic accident data to identify patterns related to road conditions, weather, and time of day. By exploring these factors, we can gain valuable insights into the causes of accidents and develop strategies for improving road safety
+This repository has the analysis that aims to analyze traffic accident data to identify patterns related to road conditions, weather, and time of day. By exploring these factors, we can gain valuable insights into the causes of accidents and develop strategies for improving road safety
